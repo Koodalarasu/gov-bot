@@ -108,7 +108,7 @@ govbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Rakshan-Velupillai/GovBot.git
+git clone https://github.com/koodalarasu/GovBot.git
 cd GovBot
 ```
 
